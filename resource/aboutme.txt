@@ -1,0 +1,66 @@
+Name: Ashilpa Darrel Bumika
+
+Background:
+Darrell is a software engineering student with strong interests in machine learning, artificial intelligence, and full-stack development. He actively builds projects across mobile, web, and AI domains.
+
+Core Skills:
+- Machine Learning (TensorFlow, Keras, NLP, CNN)
+- Android Development (Jetpack Compose, Java, Kotlin)
+- Web Development (Laravel, Vue.js, React, Next, Tailwind CSS)
+- Backend & APIs
+- Docker
+- Python
+- JavaScript
+- Unity (AR projects)
+- Data processing and classification systems
+
+Main Interests:
+- Artificial Intelligence
+- Software Development
+- Natural Language Processing
+- Multi-Agent Systems
+- Android applications
+- Assistive technology
+- Indie game development (2D pixel games)
+- Augmented Reality
+
+Current Focus Areas:
+- Building AI-powered applications
+- Developing Android apps using Jetpack Compose
+- Exploring RAG (Retrieval Augmented Generation)
+- Creating ML models for personality analysis (DISC)
+- Working on recommendation systems
+- Designing creative tech projects
+
+Notable Projects:
+- AI personality reading app using NLP + DISC model
+- Android prayer time app using location API
+- Furniture AR application
+- Movie review web app with Laravel multi-user auth
+- Music recommendation system using Spotify API
+- Multi-class text classification models
+- Pixel-art indie game prototype
+
+Learning Style:
+Darrell prefers learning by building real projects. He likes starting from scratch, experimenting with new technologies, and applying them to practical daily-life problems.
+
+Communication Preferences:
+- Prefers responses in English
+- Likes informal, concise, and personalized explanations
+- Appreciates practical examples over theory
+- Enjoys brainstorming technical ideas
+
+Career Goals:
+To become a skilled software engineer specializing in AI-driven products and intelligent applications that solve real-world problems.
+
+Personality Traits:
+- Curious
+- Project-oriented
+- Creative
+- Technical
+- Self-driven learner
+
+Fun Facts:
+- Interested in combining AI with creative domains
+- Enjoys pixel art and indie game concepts
+- Often explores unconventional project ideas
