@@ -1,0 +1,51 @@
+$primary-color: #89986D;
+$secondary-color: #F6F0D7;
+$black-color: #000000;
+$transparent: #00000000;
+
+Footer {
+    background: $transparent;
+}
+Rule {
+    color: $primary-color;
+}
+#chat-log {
+    margin: 0 2;
+    background: $transparent;
+    scrollbar-background: $transparent;
+    scrollbar-background-active: $transparent;
+    scrollbar-background-hover: $transparent;
+    scrollbar-color: $primary-color;
+    scrollbar-color-active: $primary-color;
+    scrollbar-color-hover: $primary-color;
+    scrollbar-size: 1 1;
+    width: 1fr;
+    text-wrap: wrap;
+    text-overflow: fold;
+}
+#header-container {
+    width: 1fr;
+    height: auto;
+    align: center middle;
+    margin: 1;
+}
+#title {
+    width: auto;
+    color: $primary-color;
+    text-style: bold;
+}
+#tagline {
+    width: auto;
+    color: $secondary-color;
+}
+#title-separator {
+    width: auto;
+    margin: 0 1;
+}
+#question-input {
+    height: auto;
+    background: $primary-color;
+    color: $black-color;
+    border: none;
+    padding: 1 2;
+}
