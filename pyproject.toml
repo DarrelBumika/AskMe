@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
+    "langchain>=1.2.10",
     "textual>=7.5.0",
     "textual-dev>=1.8.0",
+    "python-dotenv>=1.0.0",
+    "langchain-openai>=1.1.9",
 ]
